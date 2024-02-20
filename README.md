@@ -1,2 +1,2 @@
 # Amazon_Sales_Analysis
-Analysis of Salse Data of Amazon Using Python 
+Analysis of Sales Data of Amazon Using Python 
